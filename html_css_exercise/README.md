@@ -1,6 +1,6 @@
 # HTML & CSS Exercises
 
-This section contains small html/ css projects. The design were procured from free figma files available at the links supplied below
+This section contains small html/ css projects. The designs were procured from free figma files available at the links supplied below
 
 ## Project Figma Files
 
