@@ -118,6 +118,9 @@ a {
 /************* Mobile Design < 600px ********8*/
 
 @media only screen and (max-width: 600px) {
+    body {
+        background-image: url(../img/bg-mobile.svg);
+    }
     .header-main {
         display: flex;
         justify-content: center;
