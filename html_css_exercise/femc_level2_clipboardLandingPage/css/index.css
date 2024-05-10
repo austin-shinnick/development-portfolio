@@ -1,0 +1,12 @@
+:root {
+    --background-color-1: #1e1e1e;
+    font-size: 62.5%;
+}
+
+html, body {
+    background-color: var(--background-color-1);
+}
+
+a {
+    cursor: pointer;
+}
